@@ -17,7 +17,7 @@
 - **[Kanban Board](https://github.com/maryam-alraddadi/FinalProject)**
 - **[Github events viewer](https://github.com/maryam-alraddadi/Project02)**
 - **[Todo list](https://github.com/maryam-alraddadi/toDo-list)**
-- **[Contact List](https://github.com/maryam-alraddadi/HW_Week11_Day01_React_Redux)**
+- **[Contact List with Redux](https://github.com/maryam-alraddadi/HW_Week11_Day01_React_Redux)**
 
 ---
 
