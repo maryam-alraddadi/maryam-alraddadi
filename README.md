@@ -2,7 +2,7 @@
 
 `My projects at Tuwaiq .NET programming Bootcamp` <img alt="tuwaiq logo" width="16px" src="icons/tuwaiq.png" />
 
-<br />
+
 
 ### <img width="22px" src="icons/c-sharp-solid.svg" /> `ASP.NET` 
 
